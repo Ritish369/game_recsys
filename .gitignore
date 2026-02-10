@@ -1,0 +1,16 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Conda / Anaconda
+anaconda_projects/
+*.db
+
+# Data files
+data/
+cleaned_data/
+interactions_tabular_data_done/
+*.csv
+*.zip
+
+# Generated outputs
+*.png
