@@ -27,6 +27,12 @@ The focus throughout has been on design choices, trade-offs, and failure
 modes that emerge when recommender systems are built for realistic data sizes.
 
 
+DATASET USED
+------------------
+
+https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam
+
+
 MODELS IMPLEMENTED
 ------------------
 
